@@ -78,22 +78,6 @@ A passionate <b>Full-Stack Web Developer</b> who loves building scalable and per
 
 ---
 
-## 🚧 Featured Projects
-
-### 🔐 Authify
-> A secure MERN-based user authentication system with JWT, bcrypt.js, and email verification.
-
-🔗 [Live Demo](#) | [Source Code](https://github.com/SHIVA27017/authify)
-
----
-
-### 📋 TaskMaster Pro
-> A full-stack task manager with real-time updates using WebSockets, MongoDB, and React.
-
-🔗 [Live Site](#) | [GitHub](https://github.com/SHIVA27017/taskmaster)
-
----
-
 ## 📚 Currently Learning
 - Advanced MERN Stack Patterns  
 - WebSockets & Real-Time Communication  
