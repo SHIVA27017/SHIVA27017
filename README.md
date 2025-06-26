@@ -99,12 +99,6 @@ A passionate <b>Full-Stack Web Developer</b> who loves building scalable and per
 
 ---
 
-## 🧠 Contribution Graph
-
-[![Shiva's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SHIVA27017&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## ✨ Dev Quote of the Day  
 
 <p align="center">
