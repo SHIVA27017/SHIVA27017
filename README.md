@@ -1,21 +1,28 @@
-<h1 align="center">Hi There, I'm SHIVA! 👋</h1>
+<h1 align="center">Hey there! I'm SHIVA 👋</h1>
 
 <p align="center">
-A passionate <b>Full-Stack Web Developer</b> who loves building scalable and performant web applications using the <b>MERN stack</b> and modern Java-based backend technologies.
+🚀 Full-Stack MERN Developer | Real-Time Web Enthusiast | Problem Solver.
 </p>
 
 <p align="center">
-💡 I enjoy solving complex problems, writing clean code, and learning new technologies.
+I love building fast, scalable, and user-focused web applications using the <b>MERN stack</b> and modern frontend practices. Passionate about writing clean, maintainable code and learning new things every day.
 </p>
 
 ---
 
-## 🧭 Overview
+## 🧭 About Me
 
-- 🚀 Currently building a **real-time MERN Stack application**.
-- 📚 Learning **Advanced MERN, WebSockets, and DSA in Java**.
-- 🤝 Actively looking to **collaborate on open-source MERN projects**.
-- 💬 Fun Fact: _"Clean code, happy life – If it isn’t readable, it isn’t code."_ 😎
+- 🔨 Currently working on a **real-time MERN application**
+- 📘 Learning **WebSockets, Advanced MERN Patterns, and DevOps Basics**
+- 🤝 Open to **collaborating on MERN-based open-source projects**
+- 💡 Motto: _“Clean code, happy life. If it’s not readable, it’s not code.”_
+
+---
+
+## 📄 Resume
+
+📌 [Click here to view my Resume]([https://your-resume-link.com](https://drive.google.com/file/d/11PrJFPajerOpAj96w1hMk0zUuNur5pSN/view?usp=sharing))  
+<!-- Replace with your actual resume link (Google Drive / Notion / Portfolio site) -->
 
 ---
 
@@ -29,64 +36,49 @@ A passionate <b>Full-Stack Web Developer</b> who loves building scalable and per
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack (MERN Focused)
 
 ### 🖥️ Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) 
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) 
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![Zustand](https://img.shields.io/badge/Zustand-%23111826.svg?style=for-the-badge&logo=zustand&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%23111826.svg?style=for-the-badge&logo=zustand&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white) 
-![Mongoose](https://img.shields.io/badge/Mongoose-%23A03333.svg?style=for-the-badge) 
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white) 
-![Bcrypt.js](https://img.shields.io/badge/Bcrypt.js-%2300ACC1.svg?style=for-the-badge) 
-![WebSockets](https://img.shields.io/badge/WebSockets-%23007ACC.svg?style=for-the-badge) 
-![Nodemon](https://img.shields.io/badge/Nodemon-%2376D04B.svg?style=for-the-badge)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Servlets](https://img.shields.io/badge/Servlets-%23007ACC.svg?style=for-the-badge) 
-![JSP](https://img.shields.io/badge/JSP-%23007ACC.svg?style=for-the-badge) 
-![JDBC](https://img.shields.io/badge/JDBC-%23007ACC.svg?style=for-the-badge) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge) 
-![Spring JPA](https://img.shields.io/badge/Spring%20JPA-%236DB33F.svg?style=for-the-badge) 
-![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge) 
-![Hibernate](https://img.shields.io/badge/Hibernate-%23007ACC.svg?style=for-the-badge) 
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-%23A03333.svg?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Bcrypt.js](https://img.shields.io/badge/Bcrypt.js-%2300ACC1.svg?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-%23007ACC.svg?style=for-the-badge)
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2331575C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🗃️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 📡 API Development
-![REST API](https://img.shields.io/badge/REST%20API-%23007ACC.svg?style=for-the-badge) 
-![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-
-### ☁️ Deployment & Hosting
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) 
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+### ☁️ Deployment & Tools
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Docker (Basics)](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📚 Currently Learning
-- Advanced MERN Stack Patterns  
-- WebSockets & Real-Time Communication  
-- DSA with Java  
-- Basics of DevOps & Docker  
+## 📖 Currently Exploring
+
+- ⚙️ **DevOps Essentials**: Docker, CI/CD with GitHub Actions  
+- ⚡ **Real-Time Features** with WebSockets  
+- 📦 **Modular MERN Architecture**  
+- 🔢 **DSA in Java**  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVA27017&layout=compact&theme=highcontrast&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHIVA27017&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&include_all_commits=true)
@@ -99,7 +91,7 @@ A passionate <b>Full-Stack Web Developer</b> who loves building scalable and per
 
 ---
 
-## ✨ Dev Quote of the Day  
+## ✍️ Dev Quote of the Day
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=5F9EA0&center=true&vCenter=true&width=600&lines=Ship+features%2C+not+bugs.;Keep+it+scalable%2C+keep+it+clean.;APIs+should+be+simple+%26+powerful.;Fix+it+before+it+breaks.;React+is+fun%2C+until+it's+not!" />
