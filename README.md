@@ -21,7 +21,7 @@ I love building fast, scalable, and user-focused web applications using the <b>M
 
 ## 📄 Resume
 
-📌 [Click here to view my Resume]([https://your-resume-link.com](https://drive.google.com/file/d/11PrJFPajerOpAj96w1hMk0zUuNur5pSN/view?usp=sharing))  
+📌 [Click here to view my Resume](https://drive.google.com/file/d/11PrJFPajerOpAj96w1hMk0zUuNur5pSN/view?usp=sharing)  
 <!-- Replace with your actual resume link (Google Drive / Notion / Portfolio site) -->
 
 ---
