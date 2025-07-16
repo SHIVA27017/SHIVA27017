@@ -36,7 +36,7 @@ I love building fast, scalable, and user-focused web applications using the <b>M
 
 ---
 
-## 💻 Tech Stack (MERN Focused)
+## 💻 Tech Stack
 
 ### 🖥️ Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
