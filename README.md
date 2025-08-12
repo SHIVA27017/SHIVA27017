@@ -43,7 +43,6 @@ I love building fast, scalable, and user-focused web applications using the <b>M
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-%23111826.svg?style=for-the-badge&logo=zustand&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -51,9 +50,7 @@ I love building fast, scalable, and user-focused web applications using the <b>M
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-%23A03333.svg?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Bcrypt.js](https://img.shields.io/badge/Bcrypt.js-%2300ACC1.svg?style=for-the-badge)
+![Mongoose ODM](https://img.shields.io/badge/Mongoose-%23A03333.svg?style=for-the-badge)
 ![WebSockets](https://img.shields.io/badge/WebSockets-%23007ACC.svg?style=for-the-badge)
 
 ### 🗃️ Database
@@ -71,9 +68,8 @@ I love building fast, scalable, and user-focused web applications using the <b>M
 
 ## 📖 Currently Exploring
 
-- ⚙️ **DevOps Essentials**: Docker, CI/CD with GitHub Actions  
-- ⚡ **Real-Time Features** with WebSockets  
-- 📦 **Modular MERN Architecture**  
+- ⚙️ **Cloud & DevOps Tools**:  Kubernetes, AWS, Terraform, Ansible
+- ⚡ **CI/CD Pipelines** with Jenkins & GitHub Actions
 - 🔢 **DSA in Java**  
 
 ---
