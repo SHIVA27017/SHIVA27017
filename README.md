@@ -32,7 +32,7 @@ I love building fast, scalable, and user-focused web applications using the <b>M
 
 [![GitHub](https://img.shields.io/github/followers/SHIVA27017?label=Follow&style=social)](https://github.com/SHIVA27017)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/psivaiah6174)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rootuser_1089)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shiva_27017)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SHIVA6174124345)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:psivaiah27017@gmail.com)
 
@@ -80,10 +80,8 @@ I love building fast, scalable, and user-focused web applications using the <b>M
 
 ---
 
-## 📊 GitHub Insights
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVA27017&layout=compact&theme=highcontrast&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHIVA27017&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&include_all_commits=true)
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVA27017&layout=compact&theme=highcontrast&hide_border=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHIVA27017&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&include_all_commits=true) |
+| --- | --- |
 
 ---
 
@@ -98,3 +96,7 @@ I love building fast, scalable, and user-focused web applications using the <b>M
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=5F9EA0&center=true&vCenter=true&width=600&lines=Ship+features%2C+not+bugs.;Keep+it+scalable%2C+keep+it+clean.;APIs+should+be+simple+%26+powerful.;Fix+it+before+it+breaks.;React+is+fun%2C+until+it's+not!" />
 </p>
+
+---
+
+<p align="center">Thanks for visiting! 👋</p>
