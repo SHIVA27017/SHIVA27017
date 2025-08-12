@@ -1,5 +1,3 @@
-how its 
-
 <h1 align="center">Hey there! I'm SHIVA 👋</h1>
 
 <p align="center">
