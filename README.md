@@ -16,9 +16,8 @@ Passionate about writing clean, maintainable code and learning new things every 
 - 🔨 Currently working on a **real-time MERN application**
 - 📘 Learning **Spring Boot, WebSockets, Advanced MERN Patterns, and DevOps Basics**
 - 🤝 Open to **collaborating on MERN/Java-based open-source projects**
-- 💡 Motto: _“Clean code, happy life. If it’s not readable, it’s not code.”_
-
----
+- 💡 Motto: _“Turning bugs into features since day one 🐛➡️✨”_
+- 🙏 Thanks to **[freeCodeCamp](https://www.freecodecamp.org/)**, **[Huxn WebDev](https://www.youtube.com/@HuxnWebDev)**, and **[Codesistency](https://www.youtube.com/@codesistency)** for their amazing content — I’ve learned so much from them!
 
 ## 📄 Resume
 
