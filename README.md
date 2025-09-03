@@ -22,7 +22,7 @@ Passionate about writing clean, maintainable code and learning new things every 
 
 ## 📄 Resume
 
-📌 [Click here to view my Resume](https://drive.google.com/file/d/11PrJFPajerOpAj96w1hMk0zUuNur5pSN/view?usp=sharing)
+📌 [Click here to view my Resume](https://drive.google.com/file/d/1JDmTKRL55UjjXyim0jwcVCGtMN3czs3D/view?usp=drivesdk)
 
 ---
 
