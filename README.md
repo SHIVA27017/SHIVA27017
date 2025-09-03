@@ -31,7 +31,7 @@ Passionate about writing clean, maintainable code and learning new things every 
 [![GitHub](https://img.shields.io/github/followers/SHIVA27017?label=Follow&style=social)](https://github.com/SHIVA27017)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/psivaiah6174)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shiva_27017)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SHIVA6174124345)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shiva27017)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:psivaiah27017@gmail.com)
 
 ---
