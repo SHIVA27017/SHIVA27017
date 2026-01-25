@@ -94,7 +94,6 @@ Passionate about writing clean, maintainable code and learning new things every 
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=SHIVA27017&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
-
 ---
 
 ## ✍️ Dev Quote of the Day
